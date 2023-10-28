@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Stefanie Klajbor-Goderich",
+    "section": "",
+    "text": "I’m passionate about teaching, technology, and data science. I received my PhD in mathematics in 2020 at UIUC working in differential geometry and dynamical systems under the direction of Eugene Lerman.\nI have also developed and facilitated workshops on many topics including scientific computation, data analysis, and applied linear algebra.\nIn the recent past, I worked at NetMath where I taught and helped develop a wide variety of online courses including Calculus I-III, applied linear algebra, differential equations, and probability. Currently, I have been working as an academic advisor in the UIUC Department of Mathematics.\nHere you can find my CV, read about my teaching philosophy, and learn more about the workshops I’ve created or helped facilitate.\n\n\n\nPhD in Mathematics - University of Illinois at Urbana-Champaign - 2020\n\nDissertation title: Equivariant Dynamics and Categories of Equivariant Vector Fields\nDissertation advisor: Eugene Lerman\n\nBachelor of Science in Mathematics - Universidad de Puerto Rico - Río Piedras - 2013\n\nSumma Cum Laude\nMost Distinguished Mathematics Student, Dr. Francisco Garriga Award\nSubstantial coursework in statistics, economics, and econometrics."
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Stefanie Klajbor-Goderich",
+    "section": "",
+    "text": "Any opinions expressed on this website are solely my own and not of my employer.\n© Copyright 2023 Stefanie Klajbor-Goderich"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Philosophy and Samples",
+    "section": "",
+    "text": "I believe learning is an active endeavor that requires student engagement throughout the whole process. As an educator, I want my students to develop a deep understanding of conceptual foundations, build practical skills, and develop their ability to communicate about what they learn.\nI believe that this is best achieved in an interactive and supportive environment that leverages technology and provides ample opportunity for engagement and feedback. In this way students can develop a sense of ownership over their learning and a deeper understanding of the course material."
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching Philosophy and Samples",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\nI have experience teaching the following courses:\n\nCalculus I-III (MATH 220, 231, 241) - including online synchronous Calculus III\nApplied linear algebra (MATH 415)\nProbability Theory (MATH 461) - online version with applications in statistics\nIntro Differential Equations (MATH 285)\n\nI also contributed to course development for Calculus III, Category Theory topics course, and other courses.\nMany of these courses have involved interactive notebooks and dashboards in Python or Mathematica."
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "PI4 Applied Linear Algebra Working Group\nAn intensive multi-day workshop I created on advanced linear algebra with applications in statistics and data analysis.\nLinear algebra topics included orthogonalization, matrix factorizations, spectral theorem, dual spaces, and an introduction to symplectic linear algebra.\nAppllications included least-squares optimization, linear models and regression, polynomial interpolation, trend analysis, principal components analysis, and dimensional reduction.\nThe workshop consisted of guided active-learning sessions and mini-lectures.\nSome of the materials used:\n\nWorksheet 1: Gram-Schmidt orthogonalization, QR factorization, least-squares optimization, linear models and regression, polynomial interpolation, trend analysis\nWorksheet 2: diagonalization, spectral theorem, singular value decomposition (SVD)\nWorksheet 3: Principal component analysis, dimensional reduction\nWorksheet 4: dual spaces, annihilators, symplectic linear algebra\n\nCreated with support from National Science Foundation grant DMS 1345032 “MCTP: PI4: Program for Interdisciplinary and Industrial Internships at Illinois.”\nOriginally developed to accompany another computational bootcamp helping graduate students participating in internships.\n\n\nIllinois Geometry Lab Computational Workshop\nA workshop I created introducing undergraduates to Python scientific computing. Aimed at students that would go on to work on undergraduate research projects during the semester.\nThe workshop consisted of lectures and active-learning sessions. Jupyter notebooks were designed for students to follow along to lectures before the activities.\nWorkshop included introductions numpy, scipy, and matplotlib.\n\nNotebook 1: Introduction to Python\nNotebook 2: Matplotlib Basics\nNotebook 3: Solving equations numerically with Python\nNotebook 4: Solving differential equations, dynamical systems, and more with Python\n\n\n\nPI4 Computational Bootcamp on Data Analysis\nA workshop I helped facilitate introducing mathematics students to statistics, data analysis, and statistical learning using both Python and R.\nThe workshop included interactive lectures and small data analysis research projects.\nTopics covered included data wrangling and visualization with both R and Python, data mining, statistical modeling, clustering algorithms, and an introduction to cloud computing for big data analytics. Students were also introduced to version control and end-to-end data analysis workflows.\nJoint with David LeBauer and Neil Davis.\n\n\nPI4 Computational Bootcamp on Scientific Computing\nA workshop I helped facilitate on numerical computation for math students going on to participate in internships.\nTopics covered introductions to working with Python for scientific computing. Students worked through interactive Jupyter notebooks introducing numpy, scipy, and matplotlib.\nWorkshop lead: Anil Hirani."
+  }
+]

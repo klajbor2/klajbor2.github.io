@@ -1,0 +1,4 @@
+User-agent: GPTBot
+Disallow: /
+
+<meta name="robots" content="noindex,nofollow">
